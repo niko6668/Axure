@@ -1,0 +1,153 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.shape {
+}
+.heading_1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.droplist {
+  text-align:left;
+}
+.flow_shape {
+}
+._一级菜单 {
+  font-size:14px;
+  color:#D0E2FF;
+}
+.icon {
+}
+.ellipse {
+}
+._二级菜单 {
+  font-size:14px;
+  color:#FFFFFF;
+}
+.line {
+}
+.box_1 {
+}
+.image {
+}
+._线条颜色 {
+  color:#BCBCBC;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._边线 {
+}
+._表格全选 {
+}
+._文本输入框 {
+  font-size:12px;
+  color:#868686;
+}
+._字体_绿 {
+  color:#94C638;
+}
+._复选框 {
+  text-align:left;
+}
+._批量操作 {
+  font-size:12px;
+  color:#F2F2F2;
+}
+._默认样式 {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.tab_off {
+  color:#FFFFFF;
+}
+.checkbox {
+  text-align:left;
+}
+._形状 {
+}
+.box_2 {
+}
+.marker {
+  color:#FFFFFF;
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.radio_button {
+  text-align:left;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+._图片 {
+}
+._默认字体 {
+  font-size:14px;
+  text-align:left;
+}
+._灰色字体-小字 {
+  font-size:12px;
+  color:#AEAEAE;
+}
+._边线样式 {
+}
+._文本段落 {
+  text-align:left;
+}
+._灰色字体 {
+  font-size:14px;
+  color:#BABABA;
+}
